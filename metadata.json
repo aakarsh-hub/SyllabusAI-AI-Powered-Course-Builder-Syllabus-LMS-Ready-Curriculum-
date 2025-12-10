@@ -1,0 +1,5 @@
+{
+  "name": "SyllabusAI - Course Builder",
+  "description": "An intelligent B2B platform that converts raw syllabi and textbooks into structured, LMS-ready courses with lectures, assessments, and slide decks using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
